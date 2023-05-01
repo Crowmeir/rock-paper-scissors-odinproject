@@ -1,2 +1,2 @@
-# rock-paper-scissors-odinproject
-Just a quick personal solution for the odin project's JS foundation course.
+# Rock Paper Scissors solution for Odin Project's JS foundation course.
+Just a quick personal solution (for reference only)
